@@ -97,11 +97,22 @@ string connectionString = @"Server=localhost\SQLEXPRESS;Database=StockDb;Trusted
 
 ## 📷 Screenshots
 
+### 🧭 Main Menu
 ![Main Menu](screenshots/mainmenu.png)
+
+### 🗂 Categories Screen
 ![Categories](screenshots/categories.png)
+
+### 📦 Products Screen
 ![Products](screenshots/products.png)
+
+### 👤 Customers Screen
 ![Customers](screenshots/customers.png)
+
+### 🧾 Sales Screen
 ![Sales](screenshots/sales.png)
+
+### 📑 Sale Details Screen
 ![Sale Details](screenshots/saledetails.png)
 
 ---
