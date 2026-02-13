@@ -97,11 +97,12 @@ string connectionString = @"Server=localhost\SQLEXPRESS;Database=StockDb;Trusted
 
 ## 📷 Screenshots
 
-Create a folder named `screenshots` in the repository and place your images inside it.
-
-Example usage:
-
 ![Main Menu](screenshots/mainmenu.png)
+![Categories](screenshots/categories.png)
+![Products](screenshots/products.png)
+![Customers](screenshots/customers.png)
+![Sales](screenshots/sales.png)
+![Sale Details](screenshots/saledetails.png)
 
 ---
 
